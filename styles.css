@@ -1,0 +1,59 @@
+/* Main elements, body, p, headings etc */
+body {
+    background-color: blanchedalmond;
+}
+
+h1 {
+    text-transform: uppercase;
+
+}
+
+h2 {
+    text-transform: uppercase;
+
+}
+
+table {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: black;
+
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    text-align: justify;
+    color: grey;
+}
+
+footer {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
+
+}
+
+/* Classes and ID specific styling */
+
+.html_intro {
+    text-align: justify;
+    color: gray;
+    font-family: sans-serif;
+    font-style: italic;
+
+}
+
+.html_tags {
+    text-align: justify;
+    color: gray;
+    font-family: sans-serif;
+    font-style: italic;
+}
+
+.signature {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: xx-small;
+    font-style: italic;
+    text-align: right;
+    color: black;
+}
